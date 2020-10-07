@@ -334,7 +334,7 @@ function WriteRun()
      :!clear; python3 %
 endfunction
 
-nmap \\ :execute WriteRun()<CR>
+nmap \|\| :execute WriteRun()<CR>
 
 
 
