@@ -328,6 +328,17 @@ let g:neomake_python_flake8_maker.exe = 'python3 -m flake8'
 " Disable error messages inside the buffer, next to the problematic line
 let g:neomake_virtualtext_current_error = 0
 
+" Write and run python script
+function WriteRun()
+     :w!
+     :!clear; python3 %
+endfunction
+
+nmap \\ :execute WriteRun()<CR>
+
+
+
+
 " Fzf ------------------------------
 
 " file finder mapping
