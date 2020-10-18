@@ -24,6 +24,7 @@ Theme [Shellder](https://github.com/simnalamburt/shellder) + color scheme [TechH
 ## Workflow
 Vim + [Fisa](https://github.com/techheresy/fisa-vim-config) config with some modifications <br />
 [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) task manager <br />
+TechHeresy theme for PyCharm & WebStorm (modify Monokai Pro Spectrum & GapStyle) 
 
 ## Health
 [Redshift](https://github.com/jonls/redshift) auto day-night color temperature of screen <br />
