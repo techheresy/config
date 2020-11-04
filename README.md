@@ -8,10 +8,8 @@ Font [JetBrains Mono for Powerline](https://github.com/seanghay/JetBrainsMono-Po
 
 ## Terminal
 Keybind \<ALT\>+\<T\> xfce4-terminal --drop-down <br />
-
 [Fish](https://github.com/fish-shell/fish-shell) shell + [Oh-My-Fish](https://github.com/oh-my-fish/oh-my-fish) <br />
 Theme [Shellder](https://github.com/simnalamburt/shellder) + color scheme [TechHeresy](https://github.com/techheresy/techheresy-config/blob/master/techheresy.theme) <br />
-
 
 [Fzf](https://github.com/jethrokuan/fzf) fuzzy finder <br />
 [Z](https://github.com/oh-my-fish/plugin-z) autojump <br />
@@ -23,8 +21,7 @@ Theme [Shellder](https://github.com/simnalamburt/shellder) + color scheme [TechH
 
 ## Workflow
 Vim + [Fisa](https://github.com/techheresy/fisa-vim-config) config with some modifications <br />
-[Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) task manager <br />
-TechHeresy theme for PyCharm & WebStorm (modify Monokai Pro Spectrum & GapStyle) 
+GapSpectrum theme for PyCharm & WebStorm (modify GapStyle & Monokai Pro Spectrum) 
 
 ## Health
 [Redshift](https://github.com/jonls/redshift) auto day-night color temperature of screen <br />

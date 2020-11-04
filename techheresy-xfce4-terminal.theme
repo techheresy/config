@@ -1,0 +1,9 @@
+[Scheme]
+Name=TechHeresy
+ColorForeground=#ffffff
+ColorBackground=#262626
+ColorCursor=#ffffff
+ColorPalette=#1c1c1c;#f4005f;#98e024;#fa8419;#9d65ff;#1166ff;#58d1eb;#c4c5b5;#625e4c;#f4005f;#98e024;#e0d561;#9d65ff;#1166ff;#58d1eb;#f6f6ef
+ColorCursorUseDefault=FALSE
+TabActivityColor=#9898e0e02423
+
